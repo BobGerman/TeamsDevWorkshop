@@ -61,11 +61,11 @@
 
 | Time | Topics |
 |-----|-----|
-| 12:30 - 1:30 | Review, SharePoint Framework |
-| 1:30 - 1:45 | break |
-| 1:45 - 3:00 | Bots, Adaptive Cards, Messaging Extensions |
-| 3:00 - 3:15 | break |
-| 3:15 - 4:30 | Calling Microsoft Graph from your Teams app |
+| 12:30 - 1:45 | Review, Hello World, SharePoint Framework |
+| 1:45 - 2:00 | break |
+| 2:00 - 3:15 | Bots, Adaptive Cards, Messaging Extensions |
+| 3:15 - 3:30 | break |
+| 3:30 - 4:30 | Calling Microsoft Graph from your Teams app |
 
 2.1 Review from Day 1
 
@@ -73,7 +73,13 @@
     * Teams manifest
     * Revisit HR app and show Teams manifest
 
-2.2 Tabs with SharePoint Framework
+2.2 Hello, World
+
+    * yo teams
+    * Teams Toolkit
+    * Freestyle
+
+2.3 Tabs with SharePoint Framework
 
     * Explain SPFx, "A tale of two manifests"
     * Field visit sample
@@ -83,20 +89,20 @@
 
 ### BREAK
 
-2.3 Bot development with Bot Framework
+2.4 Bot development with Bot Framework
 
     * Turns, Dialogs, etc
     * Show consulting bot
     * Use Language Understanding
     * Code walk-through
 
-2.4 Adaptive Cards deeper dive
+2.5 Adaptive Cards deeper dive
 
     * Adaptive card templating
     * Sending adaptive cards
     * Responding to adaptive card actions
 
-2.5 Messaging Extensions
+2.6 Messaging Extensions
 
     * Search messaging extension - HTTP Status Cats
     * Search messaging extension - Consulting Bot
@@ -105,7 +111,7 @@
 
 ### BREAK
 
-2.6 Calling the Microsoft Graph
+2.7 Calling the Microsoft Graph
 
     * Graph and Azure AD concepts
     * Calling Graph from a Tab - 3 ways
