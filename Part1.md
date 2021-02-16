@@ -10,17 +10,33 @@
 | 3:00 - 3:15 | break |
 | 3:15 - 4:30 | Bots |
 
+Welcome to Building Applications for Microsoft Teams - Concepts and Low-Code Solutions. This half-day workshop is for anyone who wants to learn how to build applications for Microsoft Teams. It's all about how Teams apps work, backed up with low-code examples. Tomorrow's workshop builds on this one, and goes into the coding aspects of Teams development.
 
+These notes include all the slides and links to relevant resources. You may find it helpful to follow along during the workshop!
 
 ![Slide](./Slides/Part1/Slide1-SPFest.PNG)
 ![Slide](./Slides/Part1/Slide2.PNG)
 
 ## What is Teams? What is a Teams app?
 
+To start, let's look at the Teams "Out of the box" experience. Some students may be new to Teams itself, so this is intended to bring everyone up to speed on what's built in.
+
 ![Slide](./Slides/Part1/Slide3.PNG)
+
+Microsoft Teams is a brilliant façade over all of Microsoft 365. All of the M365 services are unified into a single user interface in Teams.
+
 ![Slide](./Slides/Part1/Slide5.PNG)
+
+A Teams application does not run _in_ _Teams_, it only appears to. Each application is hosted somewhere on the Internet - for example a tab is just a web page, and a bot is a web service. The app package you install into Teams is just a zip file containing a file called manifest.json that tells Teams where these web pages and services are.
+
 ![Slide](./Slides/Part1/Slide6.PNG)
+
+The best apps are those that integrate not only with the Teams UI but also with the rest of Microsoft 365. For example, an app that is aware of the user's calendar, or which file a user just edited, can save a lot of steps for the user. The API to access these services is the Microsoft Graph.
+
 ![Slide](./Slides/Part1/Slide7.PNG)
+
+
+
 ![Slide](./Slides/Part1/Slide8.PNG)
 ![Slide](./Slides/Part1/Slide9.PNG)
 ![Slide](./Slides/Part1/Slide10.PNG)
