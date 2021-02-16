@@ -1,6 +1,16 @@
 # Building Applications for Microsoft Teams
 
-## PART 1
+## Part 1 - Concepts and Low-Code Solutions
+
+| Time | Topics |
+|-----|-----|
+| 12:30 - 1:45 | Teams, Teams Apps, and SharePoint |
+| 1:45 - 2:00 | break |
+| 2:00 - 3:00 | Graph, Power Platform, Adaptive Cards |
+| 3:00 - 3:15 | break |
+| 3:15 - 4:30 | Bots |
+
+
 
 ![Slide](./Slides/Part1/Slide1-SPFest.PNG)
 ![Slide](./Slides/Part1/Slide2.PNG)

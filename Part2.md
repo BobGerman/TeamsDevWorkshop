@@ -1,6 +1,14 @@
 # Building Applications for Microsoft Teams
 
-## PART 2
+## Part 2 - Deeper Dive and Developer Solutions
+
+| Time | Topics |
+|-----|-----|
+| 12:30 - 1:45 | Review, Hello World, SharePoint Framework |
+| 1:45 - 2:00 | break |
+| 2:00 - 3:15 | Bots, Adaptive Cards, Messaging Extensions |
+| 3:15 - 3:30 | break |
+| 3:30 - 4:30 | Calling Microsoft Graph from your Teams app |
 
 ![Slide](./Slides/Part2/Slide1-SPFest.PNG)
 ![Slide](./Slides/Part2/Slide2.PNG)
