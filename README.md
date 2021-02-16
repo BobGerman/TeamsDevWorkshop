@@ -16,7 +16,7 @@ All times are in US Eastern Standard Time.
 
 The day 1 notes [are here](./Part1.md).
 
-## Part 2 - Deeper Dive and Developer Solutions
+## DAY 2 - Deeper Dive and Developer Solutions
 
 All times are in US Eastern Standard Time
 

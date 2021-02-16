@@ -1,5 +1,22 @@
 # Links
 
+1.1 What is Teams?
+1.2 What’s a Teams app?
+1.3 Tabs with SharePoint
+1.4 Tabs with Power Apps
+1.5 Tabs with Graph Toolkit
+1.6 Adaptive Cards
+1.7 Incoming and Outgoing Webhooks
+1.8 Building Bots for Microsoft Teams
+
+2.1 Review from Day 1
+2.2 Hello, World
+2.3 Tabs with SharePoint Framework
+2.4 Bot development with Bot Framework
+2.5 Adaptive Cards deeper dive
+2.6 Messaging Extensions
+2.7 Calling the Microsoft Graph
+
 * [Teams developer documentation](https://aka.ms/TeamsDevDocumentation)
 * [Teams developer samples](http://aka.ms/TeamsSampleBrowser)
 * [Hands-on labs](https://aka.ms/LearnTeamsDev)
