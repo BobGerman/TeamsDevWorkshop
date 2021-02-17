@@ -86,6 +86,8 @@
 
 ## Messaging Extensions
 
+![Slide](./Slides/Part2/MsgExt1.PNG)
+![Slide](./Slides/Part2/MsgExt2.PNG)
 ![Slide](./Slides/Part2/Slide51.PNG)
 * [What are Messaging Extensions](https://docs.microsoft.com/en-us/microsoftteams/platform/messaging-extensions/what-are-messaging-extensions)
 * [Build a Messaging Extension](https://docs.microsoft.com/en-us/microsoftteams/platform/build-your-first-app/build-messaging-extension)
