@@ -161,7 +161,7 @@ More Bot Links
 * [Build a Messaging Extension](https://docs.microsoft.com/en-us/microsoftteams/platform/build-your-first-app/build-messaging-extension)
 * [Building Messaging Extensions with SPFx](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/build-for-teams-expose-webparts-teams)
 * [Northwind customers sample](https://github.com/pnp/teams-dev-samples/tree/master/samples/msgext-customer-search)
-* [HTTP Status Cats](https://knowyourmeme.com/memes/http-status-cats)
+* HTTP Status Cats: [Meme](https://knowyourmeme.com/memes/http-status-cats) * [Images only](https://www.flickr.com/photos/girliemac/albums/72157628409467125/) * [Postman Collection](https://blog.postman.com/http-cats-learn-http-status-codes/)
 * [HTTP Status Cats messaging extension](https://github.com/pnp/teams-dev-samples/tree/master/samples/msgext-httpstatuscats)
 
 ## Calling the Microsoft Graph
