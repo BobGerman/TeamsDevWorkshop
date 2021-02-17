@@ -29,3 +29,7 @@ All times are in US Eastern Standard Time
 | 3:30 - 4:30 | Calling Microsoft Graph from your Teams app |
 
 The day 2 notes [are here](./Part2.md).
+
+## Resources
+
+[Here are links](./Links.md) to samples, videos, tutorials, and more.

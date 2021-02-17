@@ -21,12 +21,20 @@
 ![Slide](./Slides/Part2/Slide6.PNG)
 ![Slide](./Slides/Part2/Slide7.PNG)
 ![Slide](./Slides/Part2/Slide8.PNG)
+* [Teams developer documentation](https://aka.ms/TeamsDevDocumentation)
+* [Teams developer samples](http://aka.ms/TeamsSampleBrowser)
+* [Hands-on labs](https://aka.ms/LearnTeamsDev)
+* [App Templates](http://aka.ms/TeamsAppTemplates)
+* [Teams App Design guidance](http://bit.ly/Design4Teams)
 
 ## Hello, World: Creating your project
 
 ![Slide](./Slides/Part2/Slide9.PNG)
 ![Slide](./Slides/Part2/Slide10.PNG)
 ![Slide](./Slides/Part2/Slide11.PNG)
+* [Teams App Studio](https://aka.ms/InstallTeamsAppStudio)
+* [Yo Teams](https://docs.microsoft.com/en-us/microsoftteams/platform/tutorials/get-started-yeoman)
+* [Teams Toolkit for VS Code and Visual Studio](https://aka.ms/TeamsToolkitVS)
 
 ## Tabs with SharePoint Framework
 
@@ -37,6 +45,9 @@
 ![Slide](./Slides/Part2/Slide16.PNG)
 ![Slide](./Slides/Part2/Slide17.PNG)
 ![Slide](./Slides/Part2/Slide19.PNG)
+* [Global Developer Bootcamp 1: Building Teams Apps with SharePoint](https://aka.ms/Bootcamp1Lab)
+* [Teams Tabs in SharePoint Framework Tutorial](http://bit.ly/TeamsSPFx)
+* [Field visit tab sample](https://aka.ms/360DegreeCollab)
 
 ## Bots with Azure Bot Framework
 
@@ -58,6 +69,10 @@
 ![Slide](./Slides/Part2/Slide41.PNG)
 ![Slide](./Slides/Part2/Slide42.PNG)
 ![Slide](./Slides/Part2/Slide43.PNG)
+* [QnA Maker](https://www.qnamaker.ai/)
+* [Bot Builder Quickstart](http://bit.ly/AzBotBuilder)
+* [LUIS (Language Understanding Intelligent Service](https://www.luis.ai/)
+* [Consulting bot sample](https://aka.ms/ConsultingBotSample)
 
 ## Adaptive Cards deeper dive
 
@@ -67,10 +82,14 @@
 ![Slide](./Slides/Part2/Slide48.PNG)
 ![Slide](./Slides/Part2/Slide49.PNG)
 ![Slide](./Slides/Part2/Slide50.PNG)
+* [Adaptive Cards](ttps://adaptivecards.io/)
 
 ## Messaging Extensions
 
 ![Slide](./Slides/Part2/Slide51.PNG)
+* [What are Messaging Extensions](https://docs.microsoft.com/en-us/microsoftteams/platform/messaging-extensions/what-are-messaging-extensions)
+* [Build a Messaging Extension](https://docs.microsoft.com/en-us/microsoftteams/platform/build-your-first-app/build-messaging-extension)
+* [Building Messaging Extensions with SPFx](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/build-for-teams-expose-webparts-teams)
 
 ## Calling the Microsoft Graph
 
@@ -105,3 +124,13 @@
 ![Slide](./Slides/Part2/Slide84.PNG)
 ![Slide](./Slides/Part2/Slide86.PNG)
 ![Slide](./Slides/Part2/Slide87.PNG)
+
+* [OData Reference](https://bit.ly/ODataSpec)
+* [Microsoft Graph Explorer](https://bit.ly/GraphExplorer)
+* [MS Graph Postman Collection](https://bit.ly/GraphPostman)
+* [Azure AD Postman Collection](https://bit.ly/AadPostman)
+* [Calling Graph from Microsoft Teams(4-part article series)](http://aka.ms/CallingGraphFromTeams)
+* [Teams Pop-up w/MSAL Calls Graph sample](https://aka.ms/CallGraphTeamsTab-MSAL)
+* [Teams SSO tab calls Graph sample](https://aka.ms/CallGraphTeamsTab-SSO)
+* [Teams SPFx tab calls Graph sample](https://aka.ms/CallGraphTeamsTab-SPFx)
+* [Teams Bot calls Graph sample](https://aka.ms/CallGraphTeamsBot-AuthDialog)

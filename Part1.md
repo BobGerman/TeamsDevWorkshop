@@ -2,6 +2,8 @@
 
 ## Part 1 - Concepts and Low-Code Solutions
 
+### Approximate schedule
+
 | Time | Topics |
 |-----|-----|
 | 12:30 - 1:45 | Teams, Teams Apps, and SharePoint |
@@ -44,6 +46,12 @@ The best apps are those that integrate not only with the Teams UI but also with 
 ![Slide](./Slides/Part1/Slide13.PNG)
 ![Slide](./Slides/Part1/Slide15.PNG)
 ![Slide](./Slides/Part1/Slide17.PNG)
+* [HR recruiting sample](https://aka.ms/TeamsHrDevSample)
+* [Teams developer documentation](https://aka.ms/TeamsDevDocumentation)
+* [Teams developer samples](http://aka.ms/TeamsSampleBrowser)
+* [Hands-on labs](https://aka.ms/LearnTeamsDev)
+* [App Templates](http://aka.ms/TeamsAppTemplates)
+* [Teams App Studio](https://aka.ms/InstallTeamsAppStudio)
 
 ## Building Apps with SharePoint
 ![Slide](./Slides/Part1/Slide18.PNG)
@@ -52,11 +60,17 @@ The best apps are those that integrate not only with the Teams UI but also with 
 ![Slide](./Slides/Part1/Slide21.PNG)
 ![Slide](./Slides/Part1/Slide22.PNG)
 ![Slide](./Slides/Part1/Slide23.PNG)
+* [Global Developer Bootcamp 1: Building Teams Apps with SharePoint](https://aka.ms/Bootcamp1Lab)
+* [Teams Tabs in SharePoint Framework](http://bit.ly/TeamsSPFx)
+* [Field visit tab sample](https://aka.ms/360DegreeCollab)
+* [SharePoint Pages as Tabs](http://aka.ms/SPPagesAsTeamsApps)
 
 ## Building Apps with Power Apps
 
 ![Slide](./Slides/Part1/Slide24.PNG)
 ![Slide](./Slides/Part1/Slide25.PNG)
+
+* [Power Apps as Tabs](https://aka.ms/PowerAppsTeams)
 
 ## Adaptive Cards with Power Automate
 
@@ -64,16 +78,28 @@ The best apps are those that integrate not only with the Teams UI but also with 
 ![Slide](./Slides/Part1/Slide29.PNG)
 ![Slide](./Slides/Part1/Slide30.PNG)
 
+* [Adaptive Cards](https://adaptivecards.io/)
+* [Use Adaptive Cards in Power Automate](https://docs.microsoft.com/en-us/power-automate/create-adaptive-cards)
+
+
 ## Building an App with Graph Toolkit
 
 ![Slide](./Slides/Part1/Slide31.PNG)
 ![Slide](./Slides/Part1/Slide32.PNG)
 ![Slide](./Slides/Part1/Slide33.PNG)
 ![Slide](./Slides/Part1/Slide34.PNG)
+* [OData Reference](https://bit.ly/ODataSpec)
+* [Microsoft Graph Explorer](https://bit.ly/GraphExplorer)
+* [MS Graph Postman Collection](https://bit.ly/GraphPostman)
+* [Azure AD Postman Collection](https://bit.ly/AadPostman)
+* [Graph Toolkit article and sample](https://aka.ms/CallGraphTeamsTab-GraphToolkit)
+* [Global Developer Bootcamp 2: Building Teams Apps with Graph Toolkit](https://github.com/OfficeDev/M365Bootcamp-TeamsOneProductivityHub)
 
 ## Webhooks and Connectors
 
 ![Slide](./Slides/Part1/Slide35.PNG)
+* [Incoming and Outgoing Webhooks](https://aka.ms/TeamsWebhooks)
+* [Building Custom Connectors](https://docs.microsoft.com/en-us/MicrosoftTeams/office-365-custom-connectors)
 
 ## Building Bots
 
@@ -89,6 +115,11 @@ The best apps are those that integrate not only with the Teams UI but also with 
 ![Slide](./Slides/Part1/Slide48.PNG)
 ![Slide](./Slides/Part1/Slide49.PNG)
 ![Slide](./Slides/Part1/Slide50.PNG)
+* [QnA Maker](https://www.qnamaker.ai/)
+* [Power Virtual Agents](https://aka.ms/PowerVirtualAgent)
+* [Azure Bot Framework Composer](https://aka.ms/CallGraphFromBot)
+* [LUIS (Language Understanding Intelligent Service](https://www.luis.ai/)
+* [Consulting bot sample](https://aka.ms/ConsultingBotSample)
 
 
 
