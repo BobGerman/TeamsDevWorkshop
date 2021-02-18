@@ -2,9 +2,9 @@
 
 Welcome to Building Applications for Microsoft Teams! These notes include images of all the slides, along with other notes links to relevant resources.
 
-## DAY 1 - Concepts and Low-Code Solutions
+## **DAY 1 - Concepts and Low-Code Solutions**
 
-All times are in US Eastern Standard Time.
+_Times are approximate and are in US Eastern Standard Time_
 
 | Time | Topics |
 |-----|-----|
@@ -14,11 +14,12 @@ All times are in US Eastern Standard Time.
 | 3:00 - 3:15 | break |
 | 3:15 - 4:30 | Bots |
 
-The day 1 notes [are here](./Part1.md).
+## *** Notes for Day 1 [are here](./Part1.md) ***
+_______________
 
-## DAY 2 - Deeper Dive and Developer Solutions
+## **DAY 2 - Deeper Dive and Developer Solutions**
 
-All times are in US Eastern Standard Time
+_Times are approximate and are in US Eastern Standard Time_
 
 | Time | Topics |
 |-----|-----|
@@ -28,8 +29,9 @@ All times are in US Eastern Standard Time
 | 3:15 - 3:30 | break |
 | 3:30 - 4:30 | Calling Microsoft Graph from your Teams app |
 
-The day 2 notes [are here](./Part2.md).
+## *** Notes for Day 2 [are here](./Part2.md) ***
+___________
 
-## Resources
+## [Here are links](./Links.md) to samples, videos, tutorials, and more.
 
-[Here are links](./Links.md) to samples, videos, tutorials, and more.
+_This content is governed by the [MIT License](./LICENSE.md)_

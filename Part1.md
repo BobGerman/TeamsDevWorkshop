@@ -2,8 +2,6 @@
 
 ## Part 1 - Concepts and Low-Code Solutions
 
-### Approximate schedule
-
 | Time | Topics |
 |-----|-----|
 | 12:30 - 1:45 | Teams, Teams Apps, and SharePoint |
@@ -11,6 +9,7 @@
 | 2:00 - 3:00 | Graph, Power Platform, Adaptive Cards |
 | 3:00 - 3:15 | break |
 | 3:15 - 4:30 | Bots |
+_Times are approximate and are in US Eastern Standard Time_
 
 ## Slides and Notes
 

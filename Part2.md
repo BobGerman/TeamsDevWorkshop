@@ -2,8 +2,6 @@
 
 ## Part 2 - Deeper Dive and Developer Solutions
 
-### Approximate Schedule
-
 | Time | Topics |
 |-----|-----|
 | 12:30 - 1:45 | Review, Hello World, SharePoint Framework |
@@ -11,6 +9,7 @@
 | 2:00 - 3:15 | Bots, Adaptive Cards, Messaging Extensions |
 | 3:15 - 3:30 | break |
 | 3:30 - 4:30 | Calling Microsoft Graph from your Teams app |
+_Times are approximate and are in US Eastern Standard Time_
 
 ## Slides and Notes
 
